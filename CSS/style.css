@@ -351,7 +351,7 @@ transform: translateY(-10px) translateZ(2px);
 
 .skills  .containerone{
 
-   width: 50%;
+   width: 40%;
    padding: 30px;
    float: left;
    
@@ -389,7 +389,7 @@ transform: translateY(-10px) translateZ(2px);
   }
 
   .htmlBar {
-    width: 90%;
+    width: 80%;
     
   }
   .cssBar {
@@ -402,7 +402,7 @@ transform: translateY(-10px) translateZ(2px);
   }
   
   .javaBar {
-    width: 65%;
+    width: 80%;
     
   }
   .ccpBar {
@@ -412,7 +412,7 @@ transform: translateY(-10px) translateZ(2px);
   
  
   .sqlBar {
-    width: 45%;
+    width: 50%;
     
   }
   
